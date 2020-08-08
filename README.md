@@ -2,6 +2,9 @@
 
 A new Flutter application.
 
+![](images/movie-app-1.PNG) ![](images/movie-app-2.PNG)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
